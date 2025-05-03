@@ -2,6 +2,10 @@
 
 ## Some secondary header
 
+- [ ] See how the GitHub Skills works
+- [ ] Do a couple of basic courses
+- [ ] Jump to the interesting course, like [Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot)
+
 
 ###### I have never used header of level 6, the smallest one, before.
 
