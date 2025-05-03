@@ -5,7 +5,7 @@
 
 ###### I have never used header of level 6, the smallest one, before.
 
-~~~ruby
+```ruby
 # Can Yaktocat code in Ruby?
 
 class Cat
@@ -23,6 +23,6 @@ end
 
 yaktocat = Cat.new("Yaktocat", programming_skills: [:ruby])
 yaktocat.can_code_in_ruby?
-~~~
+```
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
